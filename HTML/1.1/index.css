@@ -37,7 +37,7 @@ nav .enlaces a {
     display: inline-block;
     padding: 5px 0;
     text-decoration: none;
-    margin-right: 22px;
+    margin-right: 27px;
     font-size: 20px;
     font-weight: 300;
     text-decoration: none;
@@ -47,7 +47,7 @@ nav .enlaces a {
 
 nav .enlaces a:hover {
     color: darkred;
-    transition: 0.3s;
+    transition: .5s;
 }
 
 section {
